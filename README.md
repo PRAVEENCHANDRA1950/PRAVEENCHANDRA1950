@@ -28,12 +28,12 @@
 
 ### 📂 Featured Projects
 
-#### 🖥️ [BodhaHub]
+#### 🖥️ [BodhaHub]()
 > A responsive web app built with Next.js and Express.js  
 > **Tech:** React, Node.js, MongoDB  
 ![Project Screenshot](link_to_image.png)
 
-#### 📱 [BodhaHub]
+#### 📱 [BodhaHub]()
 > Cross-platform productivity app built with Flutter & Dart  
 > **Tech:** Flutter, Firebase  
 ![App Screenshot](link_to_image.png)
