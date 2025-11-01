@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Profile Banner](https://dummyimage.com/1200x400/000/fff&text=Hi+I'm+Your+Name+👋)
+![Profile Banner](https://dummyimage.com/1200x400/000/fff&text=Hi+I'm+Praveenchandra++C+R+👋)
 
 # 👋 Hi, I'm Praveenchandra
 
@@ -28,12 +28,12 @@
 
 ### 📂 Featured Projects
 
-#### 🖥️ [Project One](https://github.com/yourusername/project-one)
+#### 🖥️ [BodhaHub]
 > A responsive web app built with Next.js and Express.js  
 > **Tech:** React, Node.js, MongoDB  
 ![Project Screenshot](link_to_image.png)
 
-#### 📱 [Flutter App](https://github.com/yourusername/flutter-app)
+#### 📱 [BodhaHub]
 > Cross-platform productivity app built with Flutter & Dart  
 > **Tech:** Flutter, Firebase  
 ![App Screenshot](link_to_image.png)
@@ -41,13 +41,13 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PRAVEENCHANDRA1950&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRAVEENCHANDRA1950&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Contact Me
-📧 **Email:** your.email@example.com  
+📧 **Email:** crpraveenchandra@gmail.com  
 🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
