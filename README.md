@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Profile Banner](https://dummyimage.com/1200x400/000/fff&text=Hi+I'm+Praveenchandra++C+R+👋)
+![Profile Banner](https://dummyimage.com/1200x400/000/fff&text=Hi+I'm+Praveenchandra+C+R+👋)
 
 # 👋 Hi, I'm Praveenchandra
 
